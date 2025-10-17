@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MQ1nsMrd)
 # 📘 CV_class_2025_2_Assignment_2
 
 지난 시간에는 다소 어렵다는 피드백이 많아, 이번 과제는 보다 쉽게 구성했습니다.
